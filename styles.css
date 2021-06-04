@@ -12,7 +12,6 @@ body{
 .grad1{
   background-color:white;
   transition: background ease-in-out;
-  background-image: linear-gradient(to right top, #e56600, #e75d1c, #e8552d, #e74d3a, #e54746, #e24350, #de4059, #d93e61, #d23e6a, #ca3f72, #c1407a, #b74380);
 }
 
 header{
