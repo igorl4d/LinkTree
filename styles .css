@@ -53,7 +53,7 @@ main{
     flex-flow: column;
     justify-content: space-between;
     margin-top:-1rem;
-    padding-bottom: 155px;
+    padding-bottom: 95px;
 }
 a{
     color:white;
